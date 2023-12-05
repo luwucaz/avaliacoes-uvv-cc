@@ -10,7 +10,7 @@ parent: CC1M
 
 ## Avaliações
 
-- [Prova 1](/assets/1 PERIODO/Construção de Software para Web/PROVA 1 - 07.10.2022.pdf)
+- [Prova 1]({{ site.url }}/assets/1 PERIODO/Construção de Software para Web/PROVA 1 - 07.10.2022.pdf)
 
 ## Trabalhos
 
