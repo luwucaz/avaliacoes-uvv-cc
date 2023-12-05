@@ -1,10 +1,10 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Avaliações Ciência da Computação - UVV
+description: Compilado de avaliações
 theme: just-the-docs
 
 color_scheme: dark
 
-url: https://just-the-docs.github.io
+url: https://luwucaz.github.io/avaliacoes-uvv-cc
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/luwucaz/avaliacoes-uvv-cc
